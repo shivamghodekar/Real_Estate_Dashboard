@@ -10,7 +10,7 @@ This repository contains the documentation and a visual representation of a Powe
 ---
 
 ---
-## 📊 Dashboard Overview
+# 📊 Dashboard Overview
 The Power BI Real Estate Project Dashboard is an interactive and visually rich tool that consolidates critical data points related to real estate operations. It aims to provide a clear and concise summary of the project's financial health and sales performance, structured for easy navigation and understanding of complex data.
 ---
 
@@ -42,6 +42,7 @@ The dashboard leverages various types of visualizations to present data in an ea
 
 ## Interactive Elements
 The dashboard includes interactive year filters (2025, 2026, 2027), allowing users to dynamically adjust the data displayed for historical analysis and future planning.
+
 
 
 
