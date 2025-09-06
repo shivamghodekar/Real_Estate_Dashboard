@@ -19,27 +19,28 @@ The Power BI Real Estate Project Dashboard is an interactive and visually rich t
 Key Performance Indicators (KPIs)
 The dashboard features four crucial KPIs that offer an immediate snapshot of the project's status:
 
-1. ** Revenue: Total income generated from property sales.
+1.  Revenue: Total income generated from property sales.
 
-2. **Expenses: All costs incurred during the project.
+2. Expenses: All costs incurred during the project.
 
-3. **Profits: The financial gain or loss from the project.
+3. Profits: The financial gain or loss from the project.
 
-4. **Sold Properties: The total number of properties sold within the reporting period.
+4. Sold Properties: The total number of properties sold within the reporting period.
 
 #Data Visualizations
 The dashboard leverages various types of visualizations to present data in an easily digestible format:
 
-1. **Revenue by Country: A map visualization and a corresponding table show the geographical distribution of revenue, identifying top-performing regions.
+1. Revenue by Country: A map visualization and a corresponding table show the geographical distribution of revenue, identifying top-performing regions.
 
-2. **Agent Performance: A table provides insights into the performance of individual real estate agents, including their image, name, and generated revenue.
+2. Agent Performance: A table provides insights into the performance of individual real estate agents, including their image, name, and generated revenue.
 
-3. **Expense by Quarter: An area chart visualizes the trend of expenses over four quarters, helping to identify spending patterns.
+3. Expense by Quarter: An area chart visualizes the trend of expenses over four quarters, helping to identify spending patterns.
 
-4. **Revenue by Month Name: A bar chart illustrates monthly revenue trends, revealing seasonality or the impact of specific marketing efforts.
+4. Revenue by Month Name: A bar chart illustrates monthly revenue trends, revealing seasonality or the impact of specific marketing efforts.
 
-5. **Pareto Chart: This chart combines a bar chart and a line graph to identify the top countries that contribute most to overall revenue.
+5. Pareto Chart: This chart combines a bar chart and a line graph to identify the top countries that contribute most to overall revenue.
 
 #Interactive Elements
 The dashboard includes interactive year filters (2025, 2026, 2027), allowing users to dynamically adjust the data displayed for historical analysis and future planning.
+
 
