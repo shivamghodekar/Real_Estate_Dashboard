@@ -27,7 +27,7 @@ The dashboard features four crucial KPIs that offer an immediate snapshot of the
 
 4. Sold Properties: The total number of properties sold within the reporting period.
 
-#Data Visualizations
+## Data Visualizations
 The dashboard leverages various types of visualizations to present data in an easily digestible format:
 
 1. Revenue by Country: A map visualization and a corresponding table show the geographical distribution of revenue, identifying top-performing regions.
@@ -40,7 +40,8 @@ The dashboard leverages various types of visualizations to present data in an ea
 
 5. Pareto Chart: This chart combines a bar chart and a line graph to identify the top countries that contribute most to overall revenue.
 
-#Interactive Elements
+## Interactive Elements
 The dashboard includes interactive year filters (2025, 2026, 2027), allowing users to dynamically adjust the data displayed for historical analysis and future planning.
+
 
 
