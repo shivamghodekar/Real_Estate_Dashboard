@@ -1,5 +1,5 @@
 # Power BI Real Estate Project Dashboard
-This repository contains the documentation and a visual representation of a Power BI dashboard designed to provide a comprehensive overview of a real estate project's performance. It serves as an educational tool for students and professionals to analyze key metrics, understand data visualizations, and gain actionable insights into financial health, sales trends, and agent effectiveness.
+This project is built around an interactive Power BI Dashboard designed to analyze and visualize real estate operations designed to provide a comprehensive overview of a real estate project's performance. It serves as an educational tool for students and professionals to analyze key metrics, understand data visualizations, and gain actionable insights into financial health, sales trends, and agent effectiveness.
 
 ---
 📸 Dashboard Visual
@@ -42,6 +42,7 @@ The dashboard leverages various types of visualizations to present data in an ea
 
 ## Interactive Elements
 The dashboard includes interactive year filters (2025, 2026, 2027), allowing users to dynamically adjust the data displayed for historical analysis and future planning.
+
 
 
 
